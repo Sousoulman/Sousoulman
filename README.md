@@ -4,15 +4,16 @@ Hi, I'm Sousoulman
 About me
 --------
 Language that I use
-- python
-- c
+* python
+* c
+
 Editor : neovim ofc
 
 Goal
 -------
-- contribute to the linux kernel
-- make a game
-- rice my arch linux (btw) installation
+* contribute to the linux kernel
+* make a game
+* rice my arch linux (btw) installation
 
 Fun fact
 --------
